@@ -1,0 +1,2 @@
+# cypressAutomationDemo
+Automating websites
